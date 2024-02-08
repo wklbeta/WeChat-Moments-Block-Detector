@@ -11,7 +11,7 @@ Android微信识别谁关闭了朋友圈-自动化脚本
 - 操作系统支持：Windows/Mac/Linux
 - 手机要求：Android
 - 测试通过的微信Android版本：8.0.42，其他版本未测试
-- 需要安装 [adb](https://developer.android.com/studio/releases/platform-tools?hl=zh-cn) 并放置到环境目录下
+- 需要安装 [adb](https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn) 并放置到环境目录下
 - 需要安装 Python3 并放置 python3 到环境目录下（Mac已自带，Windows需[手动安装](https://www.python.org/downloads/windows/)）
 
 # 支持页面
